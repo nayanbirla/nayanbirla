@@ -43,16 +43,25 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanbirla&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+### 🧠 Coding Profiles
+
 <p align="center">
+
+  <!-- LeetCode Card -->
   <a href="https://leetcode.com/u/NAYAN_BIRLA/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+    <img width="300" alt="LeetCode Stats" src="https://leetcard.jacoblin.cool/NAYAN_BIRLA?theme=light&font=Fira+Code&ext=contest" />
   </a>
+
+  <!-- GFG Custom Card -->
   <a href="https://www.geeksforgeeks.org/user/nayanbirla9893/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-14B964?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG">
+    <img height="160" width="300" alt="GFG Profile" src="https://github-readme-stats.vercel.app/api?username=nayanbirla&custom_title=GFG%20Profile&show_icons=true&theme=gruvbox&hide_border=true&hide_rank=true&hide=stars&line_height=20" />
   </a>
+
+  <!-- HackerRank Custom Badge Link -->
   <a href="https://www.hackerrank.com/profile/nayanbirla9893" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+    <img width="300" src="https://img.shields.io/badge/HackerRank-View%20Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+
 </p>
 ---
 
