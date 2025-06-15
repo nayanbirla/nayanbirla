@@ -78,8 +78,8 @@
 ### 📬 Reach Me
 
 <p align="center">
-  <a href="mailto:nayanbirla.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-nayanbirla.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/nayanbirla/"><img src="https://img.shields.io/badge/LinkedIn-nayanbirla-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:nayanbirla9893@gmail.com"><img src="https://img.shields.io/badge/Gmail-nayanbirla.dev%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nayan-birla-4b4b001a1/"><img src="https://img.shields.io/badge/LinkedIn-nayanbirla-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/nayanbirla"><img src="https://img.shields.io/badge/GitHub-nayanbirla-black?style=for-the-badge&logo=github"></a>
 </p>
 
