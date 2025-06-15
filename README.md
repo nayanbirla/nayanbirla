@@ -13,7 +13,7 @@
 - 💡 Exploring **React**, **Redis**, **Elasticsearch**, and **AI-powered tools**
 - 🤝 I love collaborating on full-stack projects — **frontend with React**, **backend with Java & Spring Boot**
 - 💬 Ask me about: `Multithreading`, `Spring Security`, `JPA`, `Testing (JUnit/Mockito)`
-- 📫 How to reach me: [📩 Email me](mailto:nayanbirla.dev@gmail.com) or connect via [LinkedIn](https://linkedin.com/in/nayanbirla)
+- 📫 How to reach me: [📩 Email me](mailto:nayanbirla9893@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/nayan-birla-4b4b001a1/)
 
 ---
 
