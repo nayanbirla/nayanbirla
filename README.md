@@ -43,6 +43,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanbirla&theme=react-dark&hide_border=true&area=true" />
 </p>
 
+<p align="center">
+  <a href="https://leetcode.com/u/NAYAN_BIRLA/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/nayanbirla9893/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-14B964?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG">
+  </a>
+  <a href="https://www.hackerrank.com/profile/nayanbirla9893" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a>
+</p>
 ---
 
 ### 🔧 Tools I Use
